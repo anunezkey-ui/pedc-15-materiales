@@ -116,9 +116,9 @@ HERO / BIENVENIDA — foto arquitectura + overlay
 .hero {
 background:
 linear-gradient(135deg,
-rgba(0, 26, 58, 0.93) 0%,
-rgba(0, 43, 92, 0.82) 55%,
-rgba(0, 61, 130, 0.70) 100%),
+rgba(0, 26, 58, 0.78) 0%,
+rgba(0, 43, 92, 0.62) 55%,
+rgba(0, 61, 130, 0.48) 100%),
 url('https://images.unsplash.com/photo-1486325212027-8081e485255e?auto=format&fit=crop&w=1920&q=80')
 center / cover no-repeat;
 padding: 88px 0 72px;
@@ -546,9 +546,9 @@ PODCASTS NOTEBOOKLM — estudio / micrófono
 #podcasts {
 background:
 linear-gradient(160deg,
-rgba(0, 26, 58, 0.91) 0%,
-rgba(0, 43, 92, 0.82) 60%,
-rgba(0, 26, 58, 0.91) 100%),
+rgba(0, 26, 58, 0.76) 0%,
+rgba(0, 43, 92, 0.65) 60%,
+rgba(0, 26, 58, 0.76) 100%),
 url('https://images.unsplash.com/photo-1478737270239-2f02b77fc618?auto=format&fit=crop&w=1920&q=80')
 center / cover no-repeat;
 position: relative;
@@ -695,9 +695,9 @@ box-shadow: 0 2px 8px rgba(200,164,21,0.35);
 #otb {
 background:
 linear-gradient(135deg,
-rgba(0, 20, 40, 0.88) 0%,
-rgba(10, 30, 55, 0.80) 50%,
-rgba(0, 20, 40, 0.88) 100%),
+rgba(0, 20, 40, 0.74) 0%,
+rgba(10, 30, 55, 0.62) 50%,
+rgba(0, 20, 40, 0.74) 100%),
 url('https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?auto=format&fit=crop&w=1920&q=80')
 center / cover no-repeat;
 position: relative;
